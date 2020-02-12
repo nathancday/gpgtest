@@ -1,3 +1,5 @@
 #gpgtest
 
-# new seciont
+# new section
+
+# config section
